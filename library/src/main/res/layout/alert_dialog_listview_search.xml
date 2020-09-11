@@ -15,7 +15,6 @@
 		android:inputType="text"
 		android:padding="5dp">
 
-		<requestFocus />
 	</EditText>
 
 	<RelativeLayout
